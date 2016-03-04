@@ -1,0 +1,1 @@
+# prestashop-export-vertaa-fi
